@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
+  "schema_version": "1",
   "name": "Nederlands A1 & A2",
   "description": "Nederlands A1 & A2",
-  "version": 0.1,
+  "version": "0.1",
   "lessons": [
     {
       "name": "Hartelijk welkom!",
       "description": "asd",
-      "version": 0.1,
+      "version": "0.1",
       "path": "lesson_0.json"
     }
   ]
