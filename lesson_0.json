@@ -1,0 +1,1392 @@
+{
+    "schema_version": 1,
+    "vocabulary": [
+        {
+            "lemma": "hartelijk",
+            "type": "adjective",
+            "forms": [
+                {
+                    "form": "hartelijkere",
+                    "syllables": [
+                        "har",
+                        "te",
+                        "lij",
+                        "ke",
+                        "re"
+                    ],
+                    "type": "comparativeInflected"
+                },
+                {
+                    "form": "hartelijks",
+                    "syllables": [
+                        "har",
+                        "te",
+                        "lijks"
+                    ],
+                    "type": "sForm"
+                },
+                {
+                    "form": "hartelijkst",
+                    "syllables": [
+                        "har",
+                        "te",
+                        "lijkst"
+                    ],
+                    "type": "superlative"
+                },
+                {
+                    "form": "hartelijk",
+                    "syllables": [
+                        "har",
+                        "te",
+                        "lijk"
+                    ],
+                    "type": "positive"
+                },
+                {
+                    "form": "hartelijke",
+                    "syllables": [
+                        "har",
+                        "te",
+                        "lij",
+                        "ke"
+                    ],
+                    "type": "positiveInflected"
+                },
+                {
+                    "form": "hartelijker",
+                    "syllables": [
+                        "har",
+                        "te",
+                        "lij",
+                        "ker"
+                    ],
+                    "type": "comparative"
+                },
+                {
+                    "form": "hartelijkste",
+                    "syllables": [
+                        "har",
+                        "te",
+                        "lijk",
+                        "ste"
+                    ],
+                    "type": "superlativeInflected"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "herzlich"
+                ]
+            }
+        },
+        {
+            "lemma": "welkom",
+            "type": "interjection",
+            "syllables": [
+                "wel",
+                "kom"
+            ],
+            "translations": {
+                "de": [
+                    "willkommen"
+                ]
+            }
+        },
+        {
+            "lemma": "welk",
+            "type": "pronoun",
+            "syllables": [
+                "welk"
+            ],
+            "translations": {
+                "de": [
+                    "welche",
+                    "welcher",
+                    "welches"
+                ]
+            },
+            "pronounType": "relative"
+        },
+        {
+            "lemma": "welk",
+            "type": "pronoun",
+            "syllables": [
+                "welk"
+            ],
+            "translations": {
+                "de": [
+                    "welche",
+                    "welcher",
+                    "welches"
+                ]
+            },
+            "pronounType": "interrogative"
+        },
+        {
+            "lemma": "woord",
+            "type": "noun",
+            "gender": "neutral",
+            "article": "het",
+            "forms": [
+                {
+                    "form": "woord",
+                    "syllables": [
+                        "woord"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "woordjes",
+                    "syllables": [
+                        "woord",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "woorden",
+                    "syllables": [
+                        "woor",
+                        "den"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "woordje",
+                    "syllables": [
+                        "woord",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Wort"
+                ]
+            }
+        },
+        {
+            "lemma": "horen",
+            "type": "verb",
+            "forms": [
+                {
+                    "form": "horen",
+                    "syllables": [
+                        "ho",
+                        "ren"
+                    ],
+                    "type": "secondPersonPluralPresent"
+                },
+                {
+                    "form": "hoorden",
+                    "syllables": [
+                        "hoor",
+                        "den"
+                    ],
+                    "type": "firstPersonPluralPast"
+                },
+                {
+                    "form": "hoort",
+                    "syllables": [
+                        "hoort"
+                    ],
+                    "type": "secondPersonSingularPresentHonorific"
+                },
+                {
+                    "form": "hoor",
+                    "syllables": [
+                        "hoor"
+                    ],
+                    "type": "secondPersonSingularPresentInverted"
+                },
+                {
+                    "form": "hoort",
+                    "syllables": [
+                        "hoort"
+                    ],
+                    "type": "secondPersonSingularPresent"
+                },
+                {
+                    "form": "horen",
+                    "syllables": [
+                        "ho",
+                        "ren"
+                    ],
+                    "type": "thirdPersonPluralPresent"
+                },
+                {
+                    "form": "hoorden",
+                    "syllables": [
+                        "hoor",
+                        "den"
+                    ],
+                    "type": "thirdPersonPluralPast"
+                },
+                {
+                    "form": "hoorde",
+                    "syllables": [
+                        "hoor",
+                        "de"
+                    ],
+                    "type": "secondPersonSingularPast"
+                },
+                {
+                    "form": "hoorden",
+                    "syllables": [
+                        "hoor",
+                        "den"
+                    ],
+                    "type": "secondPersonPluralPast"
+                },
+                {
+                    "form": "hoor",
+                    "syllables": [
+                        "hoor"
+                    ],
+                    "type": "firstPersonSingularPresent"
+                },
+                {
+                    "form": "hoorde",
+                    "syllables": [
+                        "hoor",
+                        "de"
+                    ],
+                    "type": "firstPersonSingularPast"
+                },
+                {
+                    "form": "horend",
+                    "syllables": [
+                        "ho",
+                        "rend"
+                    ],
+                    "type": "presentParticiple"
+                },
+                {
+                    "form": "hoorde",
+                    "syllables": [
+                        "hoor",
+                        "de"
+                    ],
+                    "type": "thirdPersonSingularPast"
+                },
+                {
+                    "form": "horen",
+                    "syllables": [
+                        "ho",
+                        "ren"
+                    ],
+                    "type": "infinitive"
+                },
+                {
+                    "form": "hoort",
+                    "syllables": [
+                        "hoort"
+                    ],
+                    "type": "thirdPersonSingularPresent"
+                },
+                {
+                    "form": "gehoord",
+                    "syllables": [
+                        "ge",
+                        "hoord"
+                    ],
+                    "type": "pastParticiple"
+                },
+                {
+                    "form": "horen",
+                    "syllables": [
+                        "ho",
+                        "ren"
+                    ],
+                    "type": "firstPersonPluralPresent"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "gehören"
+                ]
+            }
+        },
+        {
+            "lemma": "horen bij",
+            "type": "collocation",
+            "syllables": [
+                "ho",
+                "ren",
+                "bij"
+            ],
+            "translations": {
+                "de": [
+                    "gehören zu"
+                ]
+            }
+        },
+        {
+            "lemma": "foto",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "foto's",
+                    "syllables": [
+                        "fo",
+                        "to's"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "fotootje",
+                    "syllables": [
+                        "fo",
+                        "to",
+                        "tje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "fotootjes",
+                    "syllables": [
+                        "fo",
+                        "to",
+                        "tjes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "foto",
+                    "syllables": [
+                        "fo",
+                        "to"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Foto"
+                ]
+            }
+        },
+        {
+            "lemma": "chocola",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "chocola",
+                    "syllables": [
+                        "cho",
+                        "co",
+                        "la"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "chocolaatje",
+                    "syllables": [
+                        "cho",
+                        "co",
+                        "la",
+                        "tje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "chocolaatjes",
+                    "syllables": [
+                        "cho",
+                        "co",
+                        "la",
+                        "tjes"
+                    ],
+                    "type": "diminutivePlural"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Schokolade"
+                ]
+            }
+        },
+        {
+            "lemma": "fiets",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "fietsjes",
+                    "syllables": [
+                        "fiets",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "fietsen",
+                    "syllables": [
+                        "fiet",
+                        "sen"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "fietsje",
+                    "syllables": [
+                        "fiets",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "fiets",
+                    "syllables": [
+                        "fiets"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Fahrrad"
+                ]
+            }
+        },
+        {
+            "lemma": "regen",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "regens",
+                    "syllables": [
+                        "re",
+                        "gens"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "regentje",
+                    "syllables": [
+                        "re",
+                        "gen",
+                        "tje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "regen",
+                    "syllables": [
+                        "re",
+                        "gen"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "regentjes",
+                    "syllables": [
+                        "re",
+                        "gen",
+                        "tjes"
+                    ],
+                    "type": "diminutivePlural"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Regen"
+                ]
+            }
+        },
+        {
+            "lemma": "schip",
+            "type": "noun",
+            "gender": "neutral",
+            "article": "het",
+            "forms": [
+                {
+                    "form": "schip",
+                    "syllables": [
+                        "schip"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "scheepjes",
+                    "syllables": [
+                        "scheep",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "schepen",
+                    "syllables": [
+                        "sche",
+                        "pen"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "scheepje",
+                    "syllables": [
+                        "scheep",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Schiff"
+                ]
+            }
+        },
+        {
+            "lemma": "gracht",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "grachtjes",
+                    "syllables": [
+                        "gracht",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "grachten",
+                    "syllables": [
+                        "grach",
+                        "ten"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "gracht",
+                    "syllables": [
+                        "gracht"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "grachtje",
+                    "syllables": [
+                        "gracht",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Gracht",
+                    "Kanal"
+                ]
+            }
+        },
+        {
+            "lemma": "haring",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "harinkje",
+                    "syllables": [
+                        "ha",
+                        "rin",
+                        "kje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "haringen",
+                    "syllables": [
+                        "ha",
+                        "rin",
+                        "gen"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "harinkjes",
+                    "syllables": [
+                        "ha",
+                        "rin",
+                        "kjes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "haring",
+                    "syllables": [
+                        "ha",
+                        "ring"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Hering"
+                ]
+            }
+        },
+        {
+            "lemma": "ijs",
+            "type": "noun",
+            "gender": "neutral",
+            "article": "het",
+            "forms": [
+                {
+                    "form": "ijsjes",
+                    "syllables": [
+                        "ijs",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "ijsje",
+                    "syllables": [
+                        "ijs",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "ijs",
+                    "syllables": [
+                        "ijs"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Eis"
+                ]
+            }
+        },
+        {
+            "lemma": "strand",
+            "type": "noun",
+            "gender": "neutral",
+            "article": "het",
+            "forms": [
+                {
+                    "form": "stranden",
+                    "syllables": [
+                        "stran",
+                        "den"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "strandjes",
+                    "syllables": [
+                        "strand",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "strand",
+                    "syllables": [
+                        "strand"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "strandje",
+                    "syllables": [
+                        "strand",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Strand"
+                ]
+            }
+        },
+        {
+            "lemma": "tulp",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "tulpje",
+                    "syllables": [
+                        "tulp",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "tulp",
+                    "syllables": [
+                        "tulp"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "tulpjes",
+                    "syllables": [
+                        "tulp",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "tulpen",
+                    "syllables": [
+                        "tul",
+                        "pen"
+                    ],
+                    "type": "plural"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Tulpe"
+                ]
+            }
+        },
+        {
+            "lemma": "winter",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "winters",
+                    "syllables": [
+                        "win",
+                        "ters"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "wintertjes",
+                    "syllables": [
+                        "win",
+                        "ter",
+                        "tjes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "winter",
+                    "syllables": [
+                        "win",
+                        "ter"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "wintertje",
+                    "syllables": [
+                        "win",
+                        "ter",
+                        "tje"
+                    ],
+                    "type": "diminutiveSingular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Winter"
+                ]
+            }
+        },
+        {
+            "lemma": "bloem",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "bloempje",
+                    "syllables": [
+                        "bloem",
+                        "pje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "bloemetje",
+                    "syllables": [
+                        "bloe",
+                        "me",
+                        "tje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "bloemetjes",
+                    "syllables": [
+                        "bloe",
+                        "me",
+                        "tjes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "bloempjes",
+                    "syllables": [
+                        "bloem",
+                        "pjes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "bloemen",
+                    "syllables": [
+                        "bloe",
+                        "men"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "bloem",
+                    "syllables": [
+                        "bloem"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Blume"
+                ]
+            }
+        },
+        {
+            "lemma": "terras",
+            "type": "noun",
+            "gender": "neutral",
+            "article": "het",
+            "forms": [
+                {
+                    "form": "terrasjes",
+                    "syllables": [
+                        "ter",
+                        "ras",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "terrassen",
+                    "syllables": [
+                        "ter",
+                        "ras",
+                        "sen"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "terrasje",
+                    "syllables": [
+                        "ter",
+                        "ras",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "terras",
+                    "syllables": [
+                        "ter",
+                        "ras"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Terasse"
+                ]
+            }
+        },
+        {
+            "lemma": "haven",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "haventje",
+                    "syllables": [
+                        "ha",
+                        "ven",
+                        "tje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "havens",
+                    "syllables": [
+                        "ha",
+                        "vens"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "haventjes",
+                    "syllables": [
+                        "ha",
+                        "ven",
+                        "tjes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "haven",
+                    "syllables": [
+                        "ha",
+                        "ven"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Hafen"
+                ]
+            }
+        },
+        {
+            "lemma": "toerist",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "toeristjes",
+                    "syllables": [
+                        "toe",
+                        "rist",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "toeristje",
+                    "syllables": [
+                        "toe",
+                        "rist",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "toeristen",
+                    "syllables": [
+                        "toe",
+                        "ris",
+                        "ten"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "toerist",
+                    "syllables": [
+                        "toe",
+                        "rist"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Tourist"
+                ]
+            }
+        },
+        {
+            "lemma": "strip",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "strip",
+                    "syllables": [
+                        "strip"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "strips",
+                    "syllables": [
+                        "strips"
+                    ],
+                    "type": "plural"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Comic"
+                ]
+            }
+        },
+        {
+            "lemma": "zee",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "zee",
+                    "syllables": [
+                        "zee"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "zeetje",
+                    "syllables": [
+                        "zee",
+                        "tje"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "zeetjes",
+                    "syllables": [
+                        "zee",
+                        "tjes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "zeeën",
+                    "syllables": [
+                        "zee",
+                        "en"
+                    ],
+                    "type": "plural"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Meer"
+                ]
+            }
+        },
+        {
+            "lemma": "molen",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "molen",
+                    "syllables": [
+                        "mo",
+                        "len"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "molens",
+                    "syllables": [
+                        "mo",
+                        "lens"
+                    ],
+                    "type": "plural"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Mühle"
+                ]
+            }
+        },
+        {
+            "lemma": "boot",
+            "type": "noun",
+            "gender": "maleFemale",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "bootje",
+                    "syllables": [
+                        "boot",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "bootjes",
+                    "syllables": [
+                        "boot",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "boot",
+                    "syllables": [
+                        "boot"
+                    ],
+                    "type": "singular"
+                },
+                {
+                    "form": "boten",
+                    "syllables": [
+                        "bo",
+                        "ten"
+                    ],
+                    "type": "plural"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Boot, Schiff"
+                ]
+            }
+        },
+        {
+            "lemma": "vis",
+            "type": "noun",
+            "gender": "male",
+            "article": "de",
+            "forms": [
+                {
+                    "form": "visje",
+                    "syllables": [
+                        "vis",
+                        "je"
+                    ],
+                    "type": "diminutiveSingular"
+                },
+                {
+                    "form": "vissen",
+                    "syllables": [
+                        "vis",
+                        "sen"
+                    ],
+                    "type": "plural"
+                },
+                {
+                    "form": "visjes",
+                    "syllables": [
+                        "vis",
+                        "jes"
+                    ],
+                    "type": "diminutivePlural"
+                },
+                {
+                    "form": "vis",
+                    "syllables": [
+                        "vis"
+                    ],
+                    "type": "singular"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "Fisch"
+                ]
+            }
+        },
+        {
+            "lemma": "luisteren",
+            "type": "verb",
+            "forms": [
+                {
+                    "form": "luisteren",
+                    "syllables": [
+                        "luis",
+                        "te",
+                        "ren"
+                    ],
+                    "type": "infinitive"
+                },
+                {
+                    "form": "luisterde",
+                    "syllables": [
+                        "luis",
+                        "ter",
+                        "de"
+                    ],
+                    "type": "secondPersonSingularPast"
+                },
+                {
+                    "form": "luisterden",
+                    "syllables": [
+                        "luis",
+                        "ter",
+                        "den"
+                    ],
+                    "type": "secondPersonPluralPast"
+                },
+                {
+                    "form": "luister",
+                    "syllables": [
+                        "luis",
+                        "ter"
+                    ],
+                    "type": "secondPersonSingularPresentInverted"
+                },
+                {
+                    "form": "luistert",
+                    "syllables": [
+                        "luis",
+                        "tert"
+                    ],
+                    "type": "secondPersonSingularPresent"
+                },
+                {
+                    "form": "luistert",
+                    "syllables": [
+                        "luis",
+                        "tert"
+                    ],
+                    "type": "secondPersonSingularPresentHonorific"
+                },
+                {
+                    "form": "geluisterd",
+                    "syllables": [
+                        "ge",
+                        "luis",
+                        "terd"
+                    ],
+                    "type": "pastParticiple"
+                },
+                {
+                    "form": "luisterden",
+                    "syllables": [
+                        "luis",
+                        "ter",
+                        "den"
+                    ],
+                    "type": "firstPersonPluralPast"
+                },
+                {
+                    "form": "luisterde",
+                    "syllables": [
+                        "luis",
+                        "ter",
+                        "de"
+                    ],
+                    "type": "firstPersonSingularPast"
+                },
+                {
+                    "form": "luister",
+                    "syllables": [
+                        "luis",
+                        "ter"
+                    ],
+                    "type": "firstPersonSingularPresent"
+                },
+                {
+                    "form": "luistert",
+                    "syllables": [
+                        "luis",
+                        "tert"
+                    ],
+                    "type": "thirdPersonSingularPresent"
+                },
+                {
+                    "form": "luisterend",
+                    "syllables": [
+                        "luis",
+                        "te",
+                        "rend"
+                    ],
+                    "type": "presentParticiple"
+                },
+                {
+                    "form": "luisteren",
+                    "syllables": [
+                        "luis",
+                        "te",
+                        "ren"
+                    ],
+                    "type": "secondPersonPluralPresent"
+                },
+                {
+                    "form": "luisteren",
+                    "syllables": [
+                        "luis",
+                        "te",
+                        "ren"
+                    ],
+                    "type": "firstPersonPluralPresent"
+                },
+                {
+                    "form": "luisterden",
+                    "syllables": [
+                        "luis",
+                        "ter",
+                        "den"
+                    ],
+                    "type": "thirdPersonPluralPast"
+                },
+                {
+                    "form": "luisterde",
+                    "syllables": [
+                        "luis",
+                        "ter",
+                        "de"
+                    ],
+                    "type": "thirdPersonSingularPast"
+                },
+                {
+                    "form": "luisteren",
+                    "syllables": [
+                        "luis",
+                        "te",
+                        "ren"
+                    ],
+                    "type": "thirdPersonPluralPresent"
+                }
+            ],
+            "translations": {
+                "de": [
+                    "hören",
+                    "zuhören"
+                ]
+            }
+        },
+        {
+            "lemma": "of",
+            "type": "conjunction",
+            "syllables": [
+                "of"
+            ],
+            "translations": {
+                "de": [
+                    "oder"
+                ]
+            }
+        },
+        {
+            "lemma": "en",
+            "type": "conjunction",
+            "syllables": [
+                "en"
+            ],
+            "translations": {
+                "de": [
+                    "und"
+                ]
+            }
+        }
+    ]
+}
